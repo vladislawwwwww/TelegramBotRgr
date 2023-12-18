@@ -18,7 +18,7 @@
 2. Установите необходимые библиотеки
 
    ```bash
-   pip install telebot
+   pip install pyTelegramBotAPI
 
 3. Запустите файл TelegramBot.py для запуска Телеграм бота Бот доступен по ссылке: https://t.me/rgr1231bot
 4. Запустите файл Dashboard.py для запуска Дашборда. Дашборд будет доступен по адресу: http://127.0.0.1:8050/
